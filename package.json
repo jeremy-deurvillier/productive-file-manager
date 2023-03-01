@@ -1,0 +1,23 @@
+{
+  "name": "productivefilemanager",
+  "version": "1.0.0",
+  "description": "A practical file manager, which will make you productive.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-deurvillier/productive-file-manager.git"
+  },
+  "author": "Jérémy Deurvillier",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jeremy-deurvillier/productive-file-manager/issues"
+  },
+  "homepage": "https://github.com/jeremy-deurvillier/productive-file-manager#readme",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
